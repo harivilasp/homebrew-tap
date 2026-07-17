@@ -1,5 +1,5 @@
 class Mediautil < Formula
-  desc "Local-first CLI for image/PDF utilities, OCR, QR codes, icons, data URIs, and base64"
+  desc "Local-first CLI for image/PDF, OCR, QR, data URI, and base64 workflows"
   homepage "https://github.com/harivilasp/mediautil"
   license "MIT"
 
